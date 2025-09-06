@@ -13,7 +13,7 @@ import java.util.List;
  *
  * @author User
  */
-public class JsonReportPluglin implements  IReportPlugin  {
+public class JsonReportPlugin implements  IReportPlugin  {
 
  
 
